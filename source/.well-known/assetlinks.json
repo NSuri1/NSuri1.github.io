@@ -1,0 +1,236 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.mShop.android.shopping",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.amazon.mShop.android.shopping",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cn.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  }, 
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.mShop.android.shopping",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.amazon.mShop.android.shopping",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  }, 
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cn.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.amazon.mShop.android",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.mShop.android.beta",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.mShop.android.beta",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.photos",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.clouddrive.photos",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.avod",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.avod.thirdpartyclient",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.venezia",
+      "sha256_cert_fingerprints":
+      ["2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.venezia",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.amazonbusiness.android.mshop.mobile",
+      "sha256_cert_fingerprints":
+      ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amazon.amazonbusiness.android.mshop.mobile",
+      "sha256_cert_fingerprints":
+      ["71:23:EB:87:AB:AC:BA:50:9C:DF:A7:5D:38:D8:6B:2C:D2:8A:88:E6:8F:16:3A:B5:D7:11:56:69:0E:EC:9F:90"]
+    }
+  } 
+]
