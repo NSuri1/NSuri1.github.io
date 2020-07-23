@@ -10,7 +10,7 @@
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "com.github.ppartisan.simplealarms",
+			"package_name": "com",
 			"sha256_cert_fingerprints": ["7F:11:84:F6:E6:3B:45:F5:9A:3F:03:BC:C5:2D:C1:35:7A:1B:AC:DC:7B:81:89:40:20:FD:F9:E7:B8:C4:90:49"]
 		}
 	}
