@@ -11,7 +11,7 @@
 		"target": {
 			"namespace": "android_app",
 			"package_name": "com.github.ppartisan.simplealarms",
-			"sha256_cert_fingerprints": ["7F:11:84:F6:E6:3B:45:F5:9A:3F:03:BC:C5:2D:C1:35:7A:1B:AC:DC:7B:81:89:40:20:FD:F9:E7:B8:C4:90:49"]
+			"sha256_cert_fingerprints": ["3F:A5:78:ED:F7:F7:B4:C2:C8:A7:F1:F6:8A:74:E5:A4:5E:00:88:B9:75:6B:03:8C:53:1E:7D:D9:F2:0D:95:54"]
 		}
 	}
 ]
