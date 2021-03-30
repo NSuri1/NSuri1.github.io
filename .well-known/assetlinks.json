@@ -6,10 +6,18 @@
             "sha256_cert_fingerprints": ["92:87:3C:D6:7A:D2:F3:87:43:D2:39:43:E1:40:E7:A4:A4:5A:9B:C8:BA:46:06:AD:1E:8D:A7:30:BF:30:57:E9"]
         }
     },
+ 	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "web",
+			"package_name": "com.other.app",
+			"sha256_cert_fingerprints": ["3e:a5:78:ed:F7:F7:B4:C2:C8:A7:F1:F6:8A:74:E5:A4:5E:00:88:B9:75:6B:03:8C:53:1E:7D:D9:F2:0D:95:54", "3F:A5:78:ED:F7:F7:B4:C2:C8:A7:F1:F6:8A:74:E5:A4:5E:00:88:B9:75:6B:03:8C:53:1E:7D:D9:F2:0D:95:54"]
+		}
+	}
 	{
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
-			"namespace": "android",
+			"namespace": "android_app",
 			"package_name": "com.github.ppartisan.simplealarms",
 			"sha256_cert_fingerprints": ["3e:a5:78:ed:F7:F7:B4:C2:C8:A7:F1:F6:8A:74:E5:A4:5E:00:88:B9:75:6B:03:8C:53:1E:7D:D9:F2:0D:95:54", "3F:A5:78:ED:F7:F7:B4:C2:C8:A7:F1:F6:8A:74:E5:A4:5E:00:88:B9:75:6B:03:8C:53:1E:7D:D9:F2:0D:95:54"]
 		}
