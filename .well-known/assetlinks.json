@@ -13,7 +13,7 @@
 			"package_name": "com.other.app",
 			"sha256_cert_fingerprints": ["3e:a5:78:ed:F7:F7:B4:C2:C8:A7:F1:F6:8A:74:E5:A4:5E:00:88:B9:75:6B:03:8C:53:1E:7D:D9:F2:0D:95:54", "3F:A5:78:ED:F7:F7:B4:C2:C8:A7:F1:F6:8A:74:E5:A4:5E:00:88:B9:75:6B:03:8C:53:1E:7D:D9:F2:0D:95:54"]
 		}
-	}
+	},
 	{
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
